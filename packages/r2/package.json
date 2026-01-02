@@ -1,6 +1,6 @@
 {
   "name": "@cfkit/r2",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "High-level Cloudflare R2 storage API wrapper",
   "type": "module",
   "main": "./dist/index.js",
