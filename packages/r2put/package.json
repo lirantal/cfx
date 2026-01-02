@@ -36,6 +36,7 @@
     "directory": "packages/r2put"
   },
   "publishConfig": {
+    "provenance": true,
     "access": "public"
   },
   "dependencies": {

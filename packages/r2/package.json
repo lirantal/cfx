@@ -39,6 +39,7 @@
     "directory": "packages/r2"
   },
   "publishConfig": {
+    "provenance": true,
     "access": "public"
   },
   "dependencies": {
