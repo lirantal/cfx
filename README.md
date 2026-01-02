@@ -191,7 +191,7 @@ This project is licensed under the MIT License — see the [LICENSE](./LICENSE) 
 
 ## 👤 Author
 
-**Liran Tal** · [GitHub](https://github.com/lirantal) · [Twitter](https://twitter.com/laborly)
+**Liran Tal** · [GitHub](https://github.com/lirantal) · [Twitter](https://x.com/liran_tal)
 
 <p align="center">
   <sub>Built with ☕ and 💜 for the Cloudflare ecosystem</sub>
