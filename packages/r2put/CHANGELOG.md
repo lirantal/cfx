@@ -1,5 +1,14 @@
 # r2put
 
+## 1.0.1
+
+### Patch Changes
+
+- [`64cbb61`](https://github.com/lirantal/cfkit/commit/64cbb61852c5380adcbb3cb083bba59d9e35943f) Thanks [@lirantal](https://github.com/lirantal)! - chore: package metadata and provenance publishing
+
+- Updated dependencies [[`64cbb61`](https://github.com/lirantal/cfkit/commit/64cbb61852c5380adcbb3cb083bba59d9e35943f)]:
+  - @cfkit/r2@1.0.1
+
 ## 0.1.1
 
 ### Patch Changes
