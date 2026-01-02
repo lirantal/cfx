@@ -1,6 +1,6 @@
 # @cfkit/r2
 
-High-level Cloudflare R2 storage API wrapper for `aws4fetch`. Provides a clean, class-based interface for interacting with Cloudflare R2 storage in Workers and browser environments.
+High-level Cloudflare R2 storage API wrapper. Provides a clean, class-based interface for interacting with Cloudflare R2 storage in Workers and browser environments.
 
 ## Features
 
