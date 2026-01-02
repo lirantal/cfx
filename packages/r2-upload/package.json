@@ -1,6 +1,6 @@
 {
   "name": "r2-upload",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Futuristic CLI tool for uploading files to Cloudflare R2",
   "type": "module",
   "main": "./dist/cli.js",
