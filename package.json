@@ -23,7 +23,7 @@
     "turbo": "latest",
     "typescript": "latest"
   },
-  "packageManager": "pnpm@10.13.1",
+  "packageManager": "pnpm@10.x",
   "engines": {
     "node": ">=18"
   }
