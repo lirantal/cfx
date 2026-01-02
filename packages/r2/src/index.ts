@@ -1,5 +1,5 @@
 /**
- * cfx-r2 - High-level Cloudflare R2 storage API wrapper
+ * @cfkit/r2 - High-level Cloudflare R2 storage API wrapper
  * 
  * A TypeScript package that provides a clean, class-based interface for
  * interacting with Cloudflare R2 storage, wrapping aws4fetch for Workers
@@ -7,7 +7,7 @@
  * 
  * @example
  * ```typescript
- * import { R2Client } from 'cfx-r2'
+ * import { R2Client } from '@cfkit/r2'
  * 
  * const r2 = new R2Client({
  *   accountId: 'abc123',

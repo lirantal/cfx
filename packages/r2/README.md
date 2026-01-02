@@ -1,4 +1,4 @@
-# cfx-r2
+# @cfkit/r2
 
 High-level Cloudflare R2 storage API wrapper for `aws4fetch`. Provides a clean, class-based interface for interacting with Cloudflare R2 storage in Workers and browser environments.
 
@@ -13,17 +13,17 @@ High-level Cloudflare R2 storage API wrapper for `aws4fetch`. Provides a clean, 
 ## Installation
 
 ```bash
-npm install cfx-r2
+npm install @cfkit/r2
 # or
-pnpm add cfx-r2
+pnpm add @cfkit/r2
 # or
-yarn add cfx-r2
+yarn add @cfkit/r2
 ```
 
 ## Quick Start
 
 ```typescript
-import { R2Client } from 'cfx-r2'
+import { R2Client } from '@cfkit/r2'
 
 // Initialize client
 const r2 = new R2Client({

@@ -136,7 +136,7 @@ pnpm typecheck
 
 ## Dependencies
 
-- [cfx-r2](../cfx-r2) - Cloudflare R2 API wrapper
+- [@cfkit/r2](../r2) - Cloudflare R2 API wrapper
 - [ink](https://github.com/vadimdemedes/ink) - React for CLI
 - [ink-spinner](https://github.com/vadimdemedes/ink-spinner) - Spinner component
 

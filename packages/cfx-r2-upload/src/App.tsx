@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react'
 import { Box, Text, useApp } from 'ink'
 import { readFileSync, statSync } from 'node:fs'
-import { R2Client } from 'cfx-r2'
+import { R2Client } from '@cfkit/r2'
 import {
   Header,
   FileInfo,
