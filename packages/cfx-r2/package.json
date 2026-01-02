@@ -1,0 +1,44 @@
+{
+  "name": "cfx-r2",
+  "version": "0.1.0",
+  "description": "High-level Cloudflare R2 storage API wrapper for aws4fetch",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "cloudflare",
+    "r2",
+    "s3",
+    "storage",
+    "aws4fetch",
+    "workers"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws4fetch": "^1.0.20"
+  },
+  "devDependencies": {
+    "@types/node": "^24.7.1",
+    "tsup": "^8.0.0",
+    "typescript": "^5.9.3"
+  },
+  "peerDependencies": {},
+  "peerDependenciesMeta": {}
+}
+
