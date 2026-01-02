@@ -1,6 +1,6 @@
 {
   "name": "cfx-r2-upload",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Futuristic CLI tool for uploading files to Cloudflare R2",
   "type": "module",
   "main": "./dist/cli.js",
@@ -45,4 +45,3 @@
     "typescript": "^5.9.3"
   }
 }
-
