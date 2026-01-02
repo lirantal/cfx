@@ -30,6 +30,9 @@
   ],
   "author": "",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@cfkit/r2": "workspace:*",
     "ink": "^5.2.0",
